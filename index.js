@@ -25,7 +25,7 @@ class Dinner{
     this.salad = salad;
     this.soup = soup
     this.entree = entree;
-    this.dessert = _dessert
+    this._dessert = _dessert
   }
 }
 
