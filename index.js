@@ -21,11 +21,11 @@ let newlunch = new Lunch("veg salad","adas","soda");
 
 
 class Dinner{
-  constructor(salad,soup,entree,dessert){
+  constructor(salad,soup,entree,_dessert){
     this.salad = salad;
     this.soup = soup
     this.entree = entree;
-    this.dessert = dessert
+    this.dessert = _dessert
   }
 }
 
