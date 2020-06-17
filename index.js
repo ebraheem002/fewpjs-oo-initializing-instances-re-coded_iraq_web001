@@ -29,4 +29,4 @@ class Dinner{
   }
 }
 
-let dinner1 = new Dinner("steak","cola");
+let dinner1 = new Dinner("nor salad","chicken soup","I don't know","cupcake");
